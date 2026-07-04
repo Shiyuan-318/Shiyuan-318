@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**Shiyuan-318/Shiyuan-318** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+我是 Shiyuan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**爱好**：编程、数学、摄影、骑行
+
+您可以来看看我的一些项目：
+
+## 1. Sy OS 系列
+
+- **Sy OS NEXT**：操作系统
+  [https://github.com/Shiyuan-318/Sy-OS-NEXT](https://github.com/Shiyuan-318/Sy-OS-NEXT)
+- **Sy OS**：Scratch 伪 OS
+  [https://ccw.site/s/zoKDNN](https://ccw.site/s/zoKDNN)
+
+## 2. SyApp 系列
+
+- **NeoWarp**：基于 Turbowarp 的 Scratch 编辑器
+  [https://github.com/Shiyuan-318/NeoWarp](https://github.com/Shiyuan-318/NeoWarp)
+- **SyMechanics**：力学设计软件
+  [https://github.com/Shiyuan-318/SyMechanics](https://github.com/Shiyuan-318/SyMechanics)
+
+## 3. SyServer 系列
+
+- **SyServer**：Minecraft 服务器
+  [https://syserver.sy1.top/](https://syserver.sy1.top/)
+- **SyPlugins**：Minecraft 服务器插件
+  [https://pn.sy1.top/](https://pn.sy1.top/)
