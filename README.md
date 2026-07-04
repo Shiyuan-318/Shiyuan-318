@@ -13,14 +13,17 @@
   [https://github.com/Shiyuan-318/Sy-OS-NEXT](https://github.com/Shiyuan-318/Sy-OS-NEXT)
 - **Sy OS**：Scratch 伪 OS
   [https://ccw.site/s/zoKDNN](https://ccw.site/s/zoKDNN)
-- **Sy OS Powered by Linux、Sy OS Vision、Sy OS Lite、Sy OS for Pad等**
+- **Sy OS Powered by Linux、Sy OS Vision、Sy OS Lite、Sy OS for Pad 等**
 
 ### 2. SyApp 系列
 
 - **NeoWarp**：基于 Turbowarp 的 Scratch 编辑器
   [https://github.com/Shiyuan-318/NeoWarp](https://github.com/Shiyuan-318/NeoWarp)
-- **SyMechanics**：力学设计软件
+- **SyMechanics**：力学模拟仿真软件
   [https://github.com/Shiyuan-318/SyMechanics](https://github.com/Shiyuan-318/SyMechanics)
+- **SyCalendar**：在线日历
+ [https://calendar.sy1.top/](https://calendar.sy1.top/)
+
 
 ### 3. SyServer 系列
 
