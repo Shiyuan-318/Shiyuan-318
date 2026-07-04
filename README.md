@@ -13,6 +13,7 @@
   [https://github.com/Shiyuan-318/Sy-OS-NEXT](https://github.com/Shiyuan-318/Sy-OS-NEXT)
 - **Sy OS**：Scratch 伪 OS
   [https://ccw.site/s/zoKDNN](https://ccw.site/s/zoKDNN)
+- **Sy OS Powered by Linux、Sy OS Vision、Sy OS Lite、Sy OS for Pad等**
 
 ### 2. SyApp 系列
 
